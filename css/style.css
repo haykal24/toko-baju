@@ -64,7 +64,7 @@ table {
 body {
     overflow-x: hidden;
     /* flex-direction: column; */
-    background-color: red;
+    background-color: #fff;
     font-family: 'Roboto', sans-serif;
 }
 

@@ -1,3 +1,8 @@
+/* my font */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Oswald&family=PT+Serif:ital@1&family=Quicksand:wght@500;700&family=Roboto+Condensed:wght@400;700&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Oswald&family=PT+Serif:ital@1&family=Quicksand:wght@500;700&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700&family=Viga&display=swap');
+
 */ html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -48,10 +53,6 @@ table {
     border-spacing: 0;
 }
 
-/* my font */
-
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Oswald&family=PT+Serif:ital@1&family=Quicksand:wght@500;700&family=Roboto+Condensed:wght@400;700&family=Viga&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Oswald&family=PT+Serif:ital@1&family=Quicksand:wght@500;700&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700&family=Viga&display=swap');
 
 * {
     padding: 0;
@@ -62,8 +63,8 @@ table {
 
 body {
     overflow-x: hidden;
-    flex-direction: column;
-    background-color: #fff;
+    /* flex-direction: column; */
+    background-color: red;
     font-family: 'Roboto', sans-serif;
 }
 
